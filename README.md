@@ -34,5 +34,5 @@ veya `BASLAT.bat` dosyasına çift tıkla
 
 - DNN ile yüz tespiti
 - Birden fazla yüz desteği
-- Sadece eller algılanır (kol değil)
+- Sadece eller algılanır
 - Cilt + hareket + morfoloji
