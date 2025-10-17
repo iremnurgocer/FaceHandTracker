@@ -16,6 +16,10 @@ pip install opencv-python numpy
 ## Çalıştırma
 
 ```bash
+python modelleri_indir.py
+```
+
+```bash
 python yuz_el_takip.py
 ```
 
